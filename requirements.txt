@@ -1,0 +1,13 @@
+scipy
+appdirs
+click
+accelerate==0.21.0
+transformers==4.26.1
+datasets
+ftfy
+tensorboard
+Jinja2
+diffusers==0.26.0
+
+# to use blip2 from LAVIS
+salesforce-lavis==1.0.2
